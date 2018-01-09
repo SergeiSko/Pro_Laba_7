@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1480615835 source:c:\dell\Сергей\учеба\Проекты\c++\pro_laba_7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+	<math.h>
+
